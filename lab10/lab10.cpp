@@ -171,7 +171,7 @@ Student* createStudent()
             exam.subject = "Chemistry",
             exam.grade = 3} };
 
-    students = new Student[5]{student1};
+    students = new Student[5]{student1, student2, student3, student4, student5};
 
     return students;
 }
