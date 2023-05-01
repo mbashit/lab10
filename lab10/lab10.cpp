@@ -146,8 +146,8 @@ Student* createStudent()
         new int[10] {5, 5, 5, 5, 5, 5, 5, 5, 5, 5},
         FullTime,
         {
-             "History",
-             5} };
+            exam.subject = "History",
+            exam.grade = 5} };
     Student student4 = {
         "Davis",
         "Ethan",
